@@ -138,13 +138,13 @@ const App: React.FC = () => {
           <hr />
           <ul>
             <li>
-              .net, .netCore, SpringBoot, Node.js, React, React Native and Expo
+              .net, .netCore, SpringBoot, Node.js, React, React Native and Expo, AWS Lambda, GraphQL
             </li>
             <li>
               Kafka
             </li>
             <li>
-              Hibernate, Jooq, TypeOrm
+              Hibernate, Jooq, TypeOrm, Prisma2
             </li>
             <li>
               Sql Server, Mysql, MongoDb, Oracle, Postgres 
