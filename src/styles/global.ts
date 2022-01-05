@@ -85,6 +85,16 @@ export const Content = styled.div`
         li { 
           padding: 4px;
         }
+
+        a {
+          margin-right: 8px;
+
+          img {
+            width: 40px;
+            height: 40px;
+          }
+
+        }
     }
 
     hr {
