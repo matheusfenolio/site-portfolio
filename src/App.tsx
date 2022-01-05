@@ -55,36 +55,52 @@ const App: React.FC = () => {
           <hr />
           <ul>
           <li>
-              <strong>IGTI - </strong>
+            <a href="https://www.igti.com.br/" target="_blank" rel="noopener noreferrer">
+              <strong>
+                IGTI - 
+              </strong>
               <span>2021 - Now</span>
-              <ul>
-                <li>Software Architeture</li>
-              </ul>
+            </a>
+            <ul>
+              <li>Software Architeture</li>
+            </ul>
             </li>
             <li>
-              <strong>ETEC Dr. Carolino da Motta e Silva - </strong>
-              <span>2012 - 2015</span>
+              <a href="https://etecpinhal.wordpress.com/" target="_blank" rel="noopener noreferrer">
+                <strong>
+                  ETEC Dr. Carolino da Motta e Silva - 
+                </strong>
+                <span>2012 - 2015</span>
+              </a>
               <ul>
                 <li>Web development</li>
               </ul>
             </li>
             <li>
-              <strong>ETEC Dr. Carolino da Motta e Silva - </strong>
-              <span>2012 - 2015</span>
+              <a href="https://etecpinhal.wordpress.com/" target="_blank" rel="noopener noreferrer">
+                <strong>
+                  ETEC Dr. Carolino da Motta e Silva - 
+                </strong>
+                <span>2012 - 2015</span>
+              </a>
               <ul>
                 <li>Desktop development</li>
               </ul>
             </li>
             <li>
-              <strong>Unipinhal - </strong>
-              <span>2015 - 2019</span>
+              <a href="https://www.sou.unipinhal.edu.br/" target="_blank" rel="noopener noreferrer">
+                <strong>Unipinhal - </strong>
+                <span>2015 - 2019</span>
+              </a>
               <ul>
                 <li>Computer engineering</li>
               </ul>
             </li>
             <li>
-              <strong>Rocketseat - </strong>
-              <span>2020</span>
+              <a href="https://www.rocketseat.com.br/" target="_blank" rel="noopener noreferrer">
+                <strong>Rocketseat - </strong>
+                <span>2020</span>
+              </a>
               <ul>
                 <li>Node.js</li>
                 <li>React.js</li>
@@ -99,8 +115,10 @@ const App: React.FC = () => {
           <hr />
           <ul>
           <li>
-              <strong>CI&T - </strong>
-              <span>11/2021 - Now</span>
+              <a href="https://ciandt.com/us/en-us" target="_blank" rel="noopener noreferrer">
+                <strong>CI&T - </strong>
+                <span>11/2021 - Now</span>
+              </a>
               <ul>
                 <li>Full-stack software developer Java, Typescript using Spring boot, and AgularJS.</li>
                 <li>Development of new features in Microservices using Spring Boot, JPA, and Hibernate liking those features in a front-end using Angular 12 with Typescript.</li>
@@ -109,8 +127,10 @@ const App: React.FC = () => {
               </ul>
             </li>
             <li>
-              <strong>Monitora - </strong>
-              <span>03/2020 - 11/2021</span>
+              <a href="https://www.monitoratec.com.br/en" target="_blank" rel="noopener noreferrer">
+                <strong>Monitora - </strong>
+                <span>03/2020 - 11/2021</span>
+              </a>
               <ul>
                 <li>Full-stack software developer Java, JavaScript using Spring boot, NodeJS, Apollo, Kafka, and ReacJS.</li>
                 <li>Development microservices that automate the process and give agility to the business process.</li>
@@ -133,16 +153,20 @@ const App: React.FC = () => {
               </ul>
             </li>
             <li>
-              <strong>International paper - </strong>
-              <span>01/2020 - 03/2020</span>
+              <a href="https://www.internationalpaper.com/" target="_blank" rel="noopener noreferrer">
+                <strong>International paper - </strong>
+                <span>01/2020 - 03/2020</span>
+              </a>
               <ul>
                 <li>Conduct troubleshooting to resolve IT-related and application issues for more than 700 users.</li>
                 <li>Participated, as a .Net developer in an automation project which automates the greenhouse and brings more information for engineering statistics.</li>
               </ul>
             </li>
             <li>
-              <strong>Palinialves - </strong>
-              <span>2017 - 2019</span>
+              <a href="https://www.palinialves.com.br/english.php" target="_blank" rel="noopener noreferrer">
+                <strong>Palinialves - </strong>
+                <span>2017 - 2019</span>
+              </a>
               <ul>
                 <li>IT support for 100 users.</li>
                 <li>Managed servers Windows and Firewall in order to maintain the stability and security of services provided.</li>
