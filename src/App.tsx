@@ -56,7 +56,7 @@ const App: React.FC = () => {
           <ul>
           <li>
               <strong>IGTI - </strong>
-              <span>2012 - 2015</span>
+              <span>2021 - Now</span>
               <ul>
                 <li>Software Architeture</li>
               </ul>
